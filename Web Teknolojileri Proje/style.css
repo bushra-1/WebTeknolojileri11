@@ -1,0 +1,131 @@
+body {
+    margin: 0;
+    background-color: #fcfcfa;
+}
+
+
+.nav_bar {
+    background-color: #1e7898;
+    height: 80px;
+    width: 100%;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.nav_bar a {
+    color: black;
+    margin: 10px;
+    text-decoration: none;
+    margin: 5px;
+    padding: 5px;
+    border: 3px solid black;
+    border-radius: 5px;
+}
+
+.nav_bar a:hover {
+    background-color: white;
+    color: coral;
+}
+
+.buyuk_resim {
+    background: url(web-proje-resimler/gecemanzara.jpg);
+    color: #fff;
+    width: 100%;
+    height: 300px;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    margin-top: -21px;
+    padding-top: 160px;
+}
+
+.hakkinda {
+    width: 100%;
+    border: 1px solid lightslategray;
+    background-color: black;
+    color: #fff;
+    font-size: 20px;
+    padding: 40px;
+}
+
+span img {
+    border: 1px solid #fff;
+    padding: 10px;
+}
+
+
+
+
+
+
+.ozgecmis {
+    margin-bottom: 14px;
+    margin-top: 14px;
+    padding: 10px;
+    background-color: rgb(229, 116, 116);
+    width: 100%;
+    border-radius: 20px;
+    border: 2px solid black;
+    margin: auto;
+    font-weight: bold;
+}
+.sehrim{
+    text-align: center;}
+
+.sehrim h2 {
+    color: #f57842
+}
+
+.takim {
+    margin-top: 14px;
+    padding: 10px;
+    background-color: lightgray;
+    width: 100%;
+    color: red;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+
+.takim a {
+    padding: 50px;
+}
+
+.ilgi_alanlari {
+    color: red;
+    font-size: 30px;
+    margin: 14px;
+    padding: 10px;
+    background-color: lightgray;
+    width: 20%;
+    border-radius: 20px;
+    border: 2px solid black;
+}
+
+.slider {
+    position: relative;
+    width: 500px;
+    height: 300px;
+    border: 1px solid yellow;
+
+}
+
+.slider-content {
+    position: absolute;
+    width: 500%;
+}
+
+.slider-item {
+    width: 20%;
+}
+
+.ilgi_alanlari {
+    width: 50%;
+    height: 400px;
+    background-color: #698496;
+}
+
+.login {
+    width: 50%;
+    background-color: aqua;
+}
